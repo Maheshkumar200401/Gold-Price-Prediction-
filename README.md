@@ -1,4 +1,4 @@
-# Gold Price Prediction App
+# Gold Price Prediction
 
 A machine learning web application that predicts the current price of 1 gram of gold in India based on USD/INR exchange rates.
 
