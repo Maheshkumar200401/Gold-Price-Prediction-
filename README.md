@@ -75,7 +75,7 @@ USD/INR: 83.50
 Output:
 
 Predicted Gold Price: 6250.75 INR per gram
-
+```
 📁 Project Structure
 
 gold-price-predictor/
@@ -86,7 +86,7 @@ gold-price-predictor/
 ├── requirements.txt      # Python dependencies
 ├── README.md            # Project documentation
 └── .gitignore           # Git ignore file
-
+```
 🔧 Technical Details
 
 Machine Learning Components
